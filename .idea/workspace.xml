@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="5c3c44da-3341-44bc-a801-9255a5cb26f6" name="Default" comment="add ignore rule">
+    <list default="true" id="5c3c44da-3341-44bc-a801-9255a5cb26f6" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="douyutv.iws" />
@@ -368,7 +368,13 @@
       <option name="project" value="LOCAL" />
       <updated>1497529299588</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="sss">
+      <created>1497529599231</created>
+      <option name="number" value="00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1497529599231</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -411,7 +417,8 @@
     <MESSAGE value="test file" />
     <MESSAGE value="delete test file" />
     <MESSAGE value="add ignore rule" />
-    <option name="LAST_COMMIT_MESSAGE" value="add ignore rule" />
+    <MESSAGE value="sss" />
+    <option name="LAST_COMMIT_MESSAGE" value="sss" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
